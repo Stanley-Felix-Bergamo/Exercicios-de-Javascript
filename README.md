@@ -8,7 +8,7 @@
 git clone https://github.com/Stanley-Felix-Bergamo/Exercicios-de-Javascript.git
 ```
 
-<p>Instalações</p>
+<p>Instalações de dependências</p>
 
 ```
 npm i prompt-sync
