@@ -8,3 +8,8 @@
 git clone https://github.com/Stanley-Felix-Bergamo/Exercicios-de-Javascript.git
 ```
 
+<p>Instalações de dependência</p>
+
+```
+npm i prompt-sync
+```
