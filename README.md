@@ -13,7 +13,7 @@ git clone https://github.com/Stanley-Felix-Bergamo/Exercicios-de-Javascript.git
 ```
 npm i prompt-sync
 ```
- ##  🛠️ Funcionamento :
+ ##  📊 Funcionamento :
  <p>Esteja na pasta "Programas" e coloque no CMD</p>
  
 ```
