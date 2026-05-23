@@ -14,4 +14,4 @@ const minutos = duracao % 60;
 console.log(`Nome do filme: ${titulo}`);
 console.log(`Durção: ${horas} hora(s) e ${minutos} minuto(s)`);
 
-resp2.innerText = `Duração do Filme: ${horas} hora(s) 3 ${minutos} minuto(s)`;
+resp2.innerText = `Duração do Filme: ${horas} hora(s) e ${minutos} minuto(s)`;
